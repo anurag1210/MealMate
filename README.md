@@ -4,4 +4,4 @@ AI-powered family meal planning agent — snap your fridge, get a week of meals,
 
 # Architecture Diagram
 
-![Architecture Diagram](docs/mealmate_architecture.png)
+![Architecture Diagram](MealMate/docs/mealmate_architecture.png)
