@@ -1,0 +1,15 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "I have a photo of my fridge at /var/folders/qc/qjj6_fd94hzdxtyclbzc0w2r0000gn/T/tmpmjy1wv7p.jpg — identify all the ingredients you can see and suggest what I can cook tonight."
+      }
+    ],
+    "tracking_id": "97a556d1-0c71-4d32-af76-ed95c31d397f"
+  },
+  "message_id": 0,
+  "redact_message": null,
+  "created_at": "2026-09-12T20:22:46.004311+00:00",
+  "updated_at": "2026-09-12T20:22:46.004313+00:00"
+}

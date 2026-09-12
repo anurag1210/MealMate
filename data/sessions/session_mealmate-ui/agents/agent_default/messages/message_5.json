@@ -1,0 +1,44 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Let me scan your fridge and pull up your family profile at the same time! 📸"
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_53zXZyL4rveZuk7gIchdgx",
+          "name": "identify_ingredients",
+          "input": {
+            "image_path": "/var/folders/qc/qjj6_fd94hzdxtyclbzc0w2r0000gn/T/tmputbwkw4m.jpg"
+          }
+        }
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_Dg6ir4cGNomtnfm9cpLfrX",
+          "name": "search_memory",
+          "input": {
+            "query": "dietary restrictions allergies preferences dislikes family"
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 3000,
+        "outputTokens": 162,
+        "totalTokens": 3162
+      },
+      "metrics": {
+        "latencyMs": 1982,
+        "timeToFirstByteMs": 993
+      }
+    },
+    "tracking_id": "349a7b7c-3d03-48a2-a89a-b18ed7e2cd64"
+  },
+  "message_id": 5,
+  "redact_message": null,
+  "created_at": "2026-09-12T20:24:27.194512+00:00",
+  "updated_at": "2026-09-12T20:24:27.194549+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_XGEA18xFDSRQzAaWvayqkS",
+          "name": "update_pantry",
+          "input": {
+            "action": "add",
+            "ingredients": "onions, garlic, ginger, cumin, rice, soy sauce"
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 7295,
+        "outputTokens": 87,
+        "totalTokens": 7382
+      },
+      "metrics": {
+        "latencyMs": 1164,
+        "timeToFirstByteMs": 938
+      }
+    },
+    "tracking_id": "09d397c9-64ad-4ccb-80c9-7d68a15134a8"
+  },
+  "message_id": 27,
+  "redact_message": null,
+  "created_at": "2026-09-12T20:39:45.711467+00:00",
+  "updated_at": "2026-09-12T20:39:45.711490+00:00"
+}

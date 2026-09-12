@@ -1,0 +1,36 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "That's super helpful, thank you! 🙌 Let me update your pantry with everything we've identified and then suggest tonight's dinner!"
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_470C1eNQjrQ4fmUXM7Qty5",
+          "name": "update_pantry",
+          "input": {
+            "ingredients": "butter, potatoes, okra, grilled chicken, carrots, prawns, greek yogurt, milk, raw meat",
+            "action": "add"
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 6350,
+        "outputTokens": 128,
+        "totalTokens": 6478
+      },
+      "metrics": {
+        "latencyMs": 2810,
+        "timeToFirstByteMs": 2237
+      }
+    },
+    "tracking_id": "e234252a-d55d-4bb3-831f-b1b08d7ec084"
+  },
+  "message_id": 21,
+  "redact_message": null,
+  "created_at": "2026-09-12T20:38:37.214526+00:00",
+  "updated_at": "2026-09-12T20:38:37.214548+00:00"
+}

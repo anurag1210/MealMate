@@ -1,0 +1,15 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "there is no raw meat ...there is only cooked grilled chicken in the glass container and yes I do have onions , garlic , ginger cumin rice  soy sauce at home "
+      }
+    ],
+    "tracking_id": "a4fe227e-d279-4e18-b64f-f64207b484af"
+  },
+  "message_id": 24,
+  "redact_message": null,
+  "created_at": "2026-09-12T20:39:42.484521+00:00",
+  "updated_at": "2026-09-12T20:39:42.484523+00:00"
+}

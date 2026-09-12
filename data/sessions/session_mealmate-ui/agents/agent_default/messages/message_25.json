@@ -1,0 +1,36 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "My apologies for the confusion! Let me correct the pantry right away — removing the raw meat and adding your pantry staples! 🙏"
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_SlsCGfsMNmk3LFnID6Ssag",
+          "name": "update_pantry",
+          "input": {
+            "action": "remove",
+            "ingredients": "raw meat"
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 7311,
+        "outputTokens": 105,
+        "totalTokens": 7416
+      },
+      "metrics": {
+        "latencyMs": 1736,
+        "timeToFirstByteMs": 1034
+      }
+    },
+    "tracking_id": "dde8fc6d-4a60-433d-ab48-10c4f22a89f7"
+  },
+  "message_id": 25,
+  "redact_message": null,
+  "created_at": "2026-09-12T20:39:44.443076+00:00",
+  "updated_at": "2026-09-12T20:39:44.443107+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "alright, in the blue bag its okra and in the glass dish is grilled chicken and I have also carrots  and potatoes in the bottom shelf as well  I do also have greek yogurt  in the blue box container does this suffice for your information ?"
+      }
+    ],
+    "tracking_id": "4811342a-0b8d-4064-804e-2ed06a943644"
+  },
+  "message_id": 20,
+  "redact_message": null,
+  "created_at": "2026-09-12T20:38:32.949282+00:00",
+  "updated_at": "2026-09-12T20:38:32.949286+00:00"
+}

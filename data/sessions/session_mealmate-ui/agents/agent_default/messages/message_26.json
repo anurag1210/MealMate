@@ -1,0 +1,23 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_SlsCGfsMNmk3LFnID6Ssag",
+          "status": "success",
+          "content": [
+            {
+              "text": "Removed from pantry: raw meat. Current pantry: butter, potatoes, okra, grilled chicken, carrots, prawns, greek yogurt, milk"
+            }
+          ]
+        }
+      }
+    ],
+    "tracking_id": "0d87b6b7-7357-402d-adeb-51a25082ea1d"
+  },
+  "message_id": 26,
+  "redact_message": null,
+  "created_at": "2026-09-12T20:39:44.448038+00:00",
+  "updated_at": "2026-09-12T20:39:44.448051+00:00"
+}

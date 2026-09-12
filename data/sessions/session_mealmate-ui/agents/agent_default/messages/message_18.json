@@ -1,0 +1,23 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_AIYT1YtPSWeBauTA4HPsla",
+          "status": "success",
+          "content": [
+            {
+              "text": "Here are the clearly identifiable food items:\n\n- **Lurpak butter** (spreadable) — 1 tub (appears partially used) — looks fine\n- **Potatoes** — 3 medium potatoes — should be used soon (potatoes shouldn't really be stored in the fridge long-term)\n- **Cooked/mixed food in glass bowl** — medium bowl (possibly a salad or mixed dish) — **use soon**, covered with plate lid suggesting leftovers\n- **Raw meat** — in clear plastic bag, middle shelf — looks like it could be chicken or pork pieces — **use soon or freeze**\n- **Something in blue plastic bag** — middle shelf — contents unclear\n- **What appears to be prawns/shrimp** — in clear container, bottom drawer — small portion, reddish colour — **use soon**\n- **A container** (blue/white lid, top left) — contents unclear\n- **Covered container** (white lid, top right) — contents unclear\n- **Milk or juice carton** (bottom right, partially visible) — appears to say \"Fresh Taste\"\n\n⚠️ **Overall note:** The fridge looks fairly sparse and several items appear to need using in the next day or two, particularly the raw meat and the bowl of leftovers."
+            }
+          ]
+        }
+      }
+    ],
+    "tracking_id": "f35ea2d2-c82d-4461-8bb1-2e0d97c5a36f"
+  },
+  "message_id": 18,
+  "redact_message": null,
+  "created_at": "2026-09-12T20:35:24.742551+00:00",
+  "updated_at": "2026-09-12T20:35:24.742567+00:00"
+}
