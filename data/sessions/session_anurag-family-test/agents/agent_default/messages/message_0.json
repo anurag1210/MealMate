@@ -1,0 +1,15 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "Plan 3 dinner ideas for tonight. Check what you know about my family first."
+      }
+    ],
+    "tracking_id": "69771ac4-53b7-4f61-83ce-6f1e004d9d96"
+  },
+  "message_id": 0,
+  "redact_message": null,
+  "created_at": "2026-09-12T17:19:47.291079+00:00",
+  "updated_at": "2026-09-12T17:19:47.291081+00:00"
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "c9d5925d-8b67-46a1-9e09-9bfb0f5d4e68",
+    "content": "User is Type 2 diabetic — meals should be low in refined carbs and sugar, with a focus on low glycaemic index foods.",
+    "createdAt": "2026-09-12T17:18:55.368Z"
+  },
+  {
+    "id": "33667122-92f3-45b0-abcd-36bf6e7be020",
+    "content": "User's wife is vegetarian — no meat or fish in her meals.",
+    "createdAt": "2026-09-12T17:18:55.369Z"
+  },
+  {
+    "id": "58ba451d-13e3-4c86-92f7-a8a0ddb956fc",
+    "content": "User has twin daughters who love chicken and eggs.",
+    "createdAt": "2026-09-12T17:18:55.370Z"
+  },
+  {
+    "id": "2475f2c1-d932-4266-b906-e5873b70308f",
+    "content": "Family cuisine preferences: Indian and Chinese food.",
+    "createdAt": "2026-09-12T17:18:55.370Z"
+  },
+  {
+    "id": "328e7fc8-d793-44fc-a04b-dcebe9a1e27a",
+    "content": "Dietary restrictions summary: User (Type 2 diabetic, low GI meals), Wife (vegetarian), Twin daughters (love chicken and eggs). Preferred cuisines: Indian and Chinese.",
+    "createdAt": "2026-09-12T17:18:55.370Z"
+  }
+]

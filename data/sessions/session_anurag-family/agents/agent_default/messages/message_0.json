@@ -1,0 +1,15 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "Remember this about my family: I am Type 2 diabetic. My wife is vegetarian. We have twin daughters who love chicken and eggs. We prefer Indian and Chinese food."
+      }
+    ],
+    "tracking_id": "84ce9374-0b36-4511-8c56-a0a12344a73c"
+  },
+  "message_id": 0,
+  "redact_message": null,
+  "created_at": "2026-09-12T17:18:52.459256+00:00",
+  "updated_at": "2026-09-12T17:18:52.459257+00:00"
+}

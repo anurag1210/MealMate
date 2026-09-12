@@ -1,9 +1,9 @@
-#Creating an Agent using the AWS Strand package
-
 """MealMate — family meal planning agent powered by Strands + Bedrock."""
 from strands import Agent
 from src.tools.meal_planner import plan_meals
 from src.tools.shopping_list import build_shopping_list
+from src.memory.session import create_session_manager
+from src.memory.preferences import create_memory_manager
 
 SYSTEM_PROMPT = """
 You are MealMate, a friendly family meal planning assistant. You help families:
@@ -20,21 +20,29 @@ Rules:
 - Kids' lunchboxes must be school-appropriate (no heating required, easy to eat)
 - Keep suggestions practical — weeknight dinners should be 30 mins or less
 - Be warm and conversational, like a helpful friend who loves cooking
+- When a user tells you about their family's preferences, dietary needs, or feedback on meals, save it to memory using the add_memory tool so you remember it next time
+- Before planning any meal, ALWAYS search memory using terms like "dietary restrictions", "allergies", "preferences", "family", "dislikes" to recall what you know about this family
+- If memory returns results, apply ALL of them to your meal planning
+
 
 When the user provides a fridge photo, identify all visible ingredients before planning.
 When asked for a weekly plan, provide all 7 days with breakfast, lunch, and dinner.
 """
 
-def create_agent():
-    """Create and return the MealMate agent."""
+def create_agent(session_id: str = "default-family"):
+    """Create and return the MealMate agent with session and memory."""
+    session_manager = create_session_manager(session_id)
+    memory_manager = create_memory_manager()
+
     agent = Agent(
         system_prompt=SYSTEM_PROMPT,
         tools=[plan_meals, build_shopping_list],
+        session_manager=session_manager,
+        memory_manager=memory_manager,
     )
     return agent
 
 
 if __name__ == "__main__":
-    agent = create_agent()
-    response = agent("Suggest 7 Breakfast, Lunch and Dinner ideas for a family of 4 to be Type2 Diabetic friendly. We like Indian and Chinese food.")
-    #print(response)
+    agent = create_agent(session_id="anurag-family-test")
+    agent("Plan 3 dinner ideas for tonight. Check what you know about my family first.")

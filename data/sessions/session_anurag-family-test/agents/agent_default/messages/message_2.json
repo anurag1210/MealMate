@@ -1,0 +1,45 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_eFpUbfhPkBl5tNmtYe4weP",
+          "status": "success",
+          "content": [
+            {
+              "text": "[{\"content\": \"Dietary restrictions summary: User (Type 2 diabetic, low GI meals), Wife (vegetarian), Twin daughters (love chicken and eggs). Preferred cuisines: Indian and Chinese.\", \"store_name\": \"family-preferences\", \"metadata\": {\"_relevanceScore\": 2}}]"
+            }
+          ]
+        }
+      },
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_LYCX32u3FBpPqkENcyyjOh",
+          "status": "success",
+          "content": [
+            {
+              "text": "[{\"content\": \"Family cuisine preferences: Indian and Chinese food.\", \"store_name\": \"family-preferences\", \"metadata\": {\"_relevanceScore\": 2}}]"
+            }
+          ]
+        }
+      },
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_DSELfCUAmHREV4Oa5KATBM",
+          "status": "success",
+          "content": [
+            {
+              "text": "[{\"content\": \"Family cuisine preferences: Indian and Chinese food.\", \"store_name\": \"family-preferences\", \"metadata\": {\"_relevanceScore\": 1}}]"
+            }
+          ]
+        }
+      }
+    ],
+    "tracking_id": "3d303643-a682-4ddb-9bc0-95bf32987933"
+  },
+  "message_id": 2,
+  "redact_message": null,
+  "created_at": "2026-09-12T17:19:50.300501+00:00",
+  "updated_at": "2026-09-12T17:19:50.300504+00:00"
+}
