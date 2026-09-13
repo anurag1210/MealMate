@@ -27,9 +27,17 @@ Rules:
 - If memory returns results, apply ALL of them to your meal planning
 - After identifying ingredients from a photo, ask the user: "I can see these items. Is there anything I missed, or anything in containers I couldn't identify? Any items nearly finished?"
 
-
 When the user provides a fridge photo, identify all visible ingredients before planning.
 When asked for a weekly plan, provide all 7 days with breakfast, lunch, and dinner.
+
+- When asked about school lunchboxes:
+  * No meals requiring heating — school has no microwave
+  * Must be leak-proof and survive 4 hours in a backpack
+  * Finger-friendly foods — easy to eat without utensils
+  * Quick to pack — 5 minutes max in the morning
+  * Use leftovers from last night's dinner when possible
+  * Always include: one protein, one fruit, one vegetable, one carb, one small treat
+  * Format as a simple packing checklist, not a recipe
 """
 
 def create_agent(session_id: str = "default-family"):
@@ -47,5 +55,5 @@ def create_agent(session_id: str = "default-family"):
 
 
 if __name__ == "__main__":
-    agent = create_agent(session_id="anurag-test-vision")
-    agent("I have a photo of my fridge at /path/to/your/fridge/photo.jpg — tell me what ingredients you see and suggest dinner.")
+    agent = create_agent(session_id="anurag-family")
+    agent("Plan school lunchboxes for my twin daughters for the next 5 days.")
