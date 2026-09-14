@@ -3,13 +3,13 @@
     "role": "user",
     "content": [
       {
-        "text": "I have a photo of my fridge at /var/folders/qc/qjj6_fd94hzdxtyclbzc0w2r0000gn/T/tmpq2sok7h_.jpg — identify all the ingredients you can see and suggest what I can cook tonight."
+        "text": "I am Type 2 diabetic. My wife is vegetarian. We have twin daughters who love chicken and eggs. We prefer Indian and Chinese food.\""
       }
     ],
-    "tracking_id": "7e1a2cd0-51c7-4c56-a004-831ef128bc3e"
+    "tracking_id": "0b5a318e-329f-4490-91e3-683cd1a96275"
   },
   "message_id": 16,
   "redact_message": null,
-  "created_at": "2026-09-12T20:35:12.238710+00:00",
-  "updated_at": "2026-09-12T20:35:12.238711+00:00"
+  "created_at": "2026-09-14T09:50:06.560630+00:00",
+  "updated_at": "2026-09-14T09:50:06.560634+00:00"
 }

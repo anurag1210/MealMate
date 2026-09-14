@@ -3,13 +3,13 @@
     "role": "user",
     "content": [
       {
-        "text": "I have a photo of my fridge at /var/folders/qc/qjj6_fd94hzdxtyclbzc0w2r0000gn/T/tmp6532q6pj.jpg — identify all the ingredients you can see and suggest what I can cook tonight."
+        "text": "Plan school lunchboxes for my twin daughters for the next 5 days using what's in the fridge."
       }
     ],
-    "tracking_id": "4fae8356-59ee-490d-bf31-10d121db8ab0"
+    "tracking_id": "c60612a4-73e8-42dd-9302-31b1ecbe14aa"
   },
   "message_id": 12,
   "redact_message": null,
-  "created_at": "2026-09-12T20:34:16.165733+00:00",
-  "updated_at": "2026-09-12T20:34:16.165740+00:00"
+  "created_at": "2026-09-14T09:04:01.650710+00:00",
+  "updated_at": "2026-09-14T09:04:01.650728+00:00"
 }

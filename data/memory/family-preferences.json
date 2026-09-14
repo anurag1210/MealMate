@@ -1,27 +1,27 @@
 [
   {
-    "id": "c9d5925d-8b67-46a1-9e09-9bfb0f5d4e68",
-    "content": "User is Type 2 diabetic — meals should be low in refined carbs and sugar, with a focus on low glycaemic index foods.",
-    "createdAt": "2026-09-12T17:18:55.368Z"
+    "id": "51e0e826-0d7d-4d6f-8ce3-c4dada1063a7",
+    "content": "The user is Type 2 diabetic — meals should be low glycaemic index, low sugar, low refined carbs, and portion-controlled.",
+    "createdAt": "2026-09-14T08:56:29.084Z"
   },
   {
-    "id": "33667122-92f3-45b0-abcd-36bf6e7be020",
-    "content": "User's wife is vegetarian — no meat or fish in her meals.",
-    "createdAt": "2026-09-12T17:18:55.369Z"
+    "id": "ea3f88ed-ae58-4607-a641-7987f7898f14",
+    "content": "The user's wife is vegetarian — no meat or fish for her. Eggs and dairy are fine.",
+    "createdAt": "2026-09-14T08:56:29.086Z"
   },
   {
-    "id": "58ba451d-13e3-4c86-92f7-a8a0ddb956fc",
-    "content": "User has twin daughters who love chicken and eggs.",
-    "createdAt": "2026-09-12T17:18:55.370Z"
+    "id": "319bcbcf-bc12-47fd-87a2-b7d9b8af7cfc",
+    "content": "The family has twin daughters who love chicken and eggs.",
+    "createdAt": "2026-09-14T08:56:29.086Z"
   },
   {
-    "id": "2475f2c1-d932-4266-b906-e5873b70308f",
-    "content": "Family cuisine preferences: Indian and Chinese food.",
-    "createdAt": "2026-09-12T17:18:55.370Z"
+    "id": "e0662f3f-b185-4067-9b64-5f357aa4ed54",
+    "content": "The family prefers Indian and Chinese cuisine.",
+    "createdAt": "2026-09-14T08:56:29.087Z"
   },
   {
-    "id": "328e7fc8-d793-44fc-a04b-dcebe9a1e27a",
-    "content": "Dietary restrictions summary: User (Type 2 diabetic, low GI meals), Wife (vegetarian), Twin daughters (love chicken and eggs). Preferred cuisines: Indian and Chinese.",
-    "createdAt": "2026-09-12T17:18:55.370Z"
+    "id": "bf324644-f662-487d-9af6-61e66ee1ce96",
+    "content": "Family structure: user (Type 2 diabetic), wife (vegetarian), twin daughters.",
+    "createdAt": "2026-09-14T08:56:29.088Z"
   }
 ]

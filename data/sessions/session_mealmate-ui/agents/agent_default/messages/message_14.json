@@ -4,20 +4,20 @@
     "content": [
       {
         "toolResult": {
-          "toolUseId": "tooluse_XDRAJf7dSS02GLSDdpIlge",
+          "toolUseId": "tooluse_6Fea38B4UB1ZltYpNVAD2Z",
           "status": "success",
           "content": [
             {
-              "text": "Error analyzing image: Parameter validation failed:\nMissing required parameter in input: \"modelId\"\nUnknown parameter in input: \"mmodelId\", must be one of: modelId, messages, system, inferenceConfig, toolConfig, guardrailConfig, additionalModelRequestFields, promptVariables, additionalModelResponseFieldPaths, requestMetadata, performanceConfig, serviceTier, outputConfig"
+              "text": "Current pantry: butter, potatoes, okra, grilled chicken, carrots, prawns, greek yogurt, milk, onions, garlic, ginger, cumin, rice, soy sauce"
             }
           ]
         }
       }
     ],
-    "tracking_id": "edf62e00-e5fc-466c-9bb2-25d06090d0fc"
+    "tracking_id": "81b26195-7c7b-4f98-bccb-68caf0c6acd6"
   },
   "message_id": 14,
   "redact_message": null,
-  "created_at": "2026-09-12T20:34:20.556322+00:00",
-  "updated_at": "2026-09-12T20:34:20.556331+00:00"
+  "created_at": "2026-09-14T09:04:03.952650+00:00",
+  "updated_at": "2026-09-14T09:04:03.952664+00:00"
 }

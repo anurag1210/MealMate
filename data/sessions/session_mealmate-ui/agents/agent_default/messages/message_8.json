@@ -3,13 +3,13 @@
     "role": "user",
     "content": [
       {
-        "text": "I have a photo of my fridge at /var/folders/qc/qjj6_fd94hzdxtyclbzc0w2r0000gn/T/tmpw6ctu4o5.jpg — identify all the ingredients you can see and suggest what I can cook tonight."
+        "text": "I have a photo of my fridge at /var/folders/qc/qjj6_fd94hzdxtyclbzc0w2r0000gn/T/tmpn25_g687.jpg — identify all the ingredients you can see and suggest what I can cook tonight."
       }
     ],
-    "tracking_id": "4dede5b5-7bb0-4b2a-a796-1d519bdc2f03"
+    "tracking_id": "221a5a66-8483-42f3-ae00-01291367d42f"
   },
   "message_id": 8,
   "redact_message": null,
-  "created_at": "2026-09-12T20:31:15.368265+00:00",
-  "updated_at": "2026-09-12T20:31:15.368267+00:00"
+  "created_at": "2026-09-14T08:56:42.500499+00:00",
+  "updated_at": "2026-09-14T08:56:42.500503+00:00"
 }
