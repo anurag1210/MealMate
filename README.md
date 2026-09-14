@@ -174,6 +174,12 @@ python -m src.agent
   dinners under 30 minutes. Diabetic-friendly meals that taste good. These 
   aren't afterthoughts — they're the core design.
 
+
+
+![Fridge scan to meal plan](docs/screenshot/fridge-scan.png)
+![5-day lunchbox plan](docs/screenshot/MealPrep.png)
+![Fridge Content](docs/screenshot/Fridge_Content.png)
+
 ## License
 
 MIT
