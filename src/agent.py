@@ -38,6 +38,8 @@ When asked for a weekly plan, provide all 7 days with breakfast, lunch, and dinn
   * Use leftovers from last night's dinner when possible
   * Always include: one protein, one fruit, one vegetable, one carb, one small treat
   * Format as a simple packing checklist, not a recipe
+
+- When planning meals or lunchboxes, prioritise ingredients confirmed in the pantry or fridge scan. If suggesting an ingredient not currently available, explicitly note it needs to be purchased. Prefer available substitutes when possible (e.g. eggs instead of chicken if chicken isn't in the fridge).
 """
 
 def create_agent(session_id: str = "default-family"):

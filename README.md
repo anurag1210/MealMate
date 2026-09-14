@@ -62,7 +62,7 @@ meals and only adds missing items to the shopping list.
 
 ## Architecture
 
-![MealMate Architecture](docs/screenshot/architecture.png)
+![MealMate Architecture](docs/mealmate_architecture.png)
 
 User (text / fridge photo / feedback)
 │
