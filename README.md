@@ -176,9 +176,10 @@ python -m src.agent
 
 
 
-![Fridge scan to meal plan](docs/screenshot/fridge-scan.png)
+![Fridge scan to meal plan](docs/screenshot/Fridge_Content.png)
 ![5-day lunchbox plan](docs/screenshot/MealPrep.png)
 ![Fridge Content](docs/screenshot/Fridge_Content.png)
+![Memory working across sessions](docs/screenshot/MealMemory.png)
 
 ## License
 
